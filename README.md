@@ -1,2 +1,2 @@
-# Cyber-Security
+# Cybersecurity
 Ransomware Project
